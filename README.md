@@ -3,6 +3,7 @@ This project leverages IoT sensor data and machine learning to transform warehou
 
 ## 📸 System Visualization
 ![Image](https://github.com/user-attachments/assets/8cd4315c-0102-49c2-83e0-7ce527560f83)
+*Attractive UI Front Page*
 ![Image](https://github.com/user-attachments/assets/e82a2642-ff2f-47df-9a70-044026c82bda)
 *Interactive dashboard showing real-time sensor data and fault predictions*
 
