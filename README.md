@@ -2,7 +2,7 @@
 This project leverages IoT sensor data and machine learning to transform warehouse maintenance from reactive to proactive, addressing critical challenges like unplanned downtime, safety risks, and operational inefficiencies.
 
 ## 📸 System Visualization
-![Predictive Maintenance Dashboard](https://drive.google.com/uc?export=view&id=14BA2vd4s3lzQlrpZ0R9L01veDoYogUAM)
+![Predictive Maintenance Dashboard]([https://drive.google.com/uc?export=view&id=14BA2vd4s3lzQlrpZ0R9L01veDoYogUAM](https://drive.google.com/file/d/14BA2vd4s3lzQlrpZ0R9L01veDoYogUAM/view?usp=drive_link))
 *Interactive dashboard showing real-time sensor data and fault predictions*
 
 ## ✨ Key Features
